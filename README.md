@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Vue.js + Node.js**
 
-- 👨‍💻 All of my projects are available at [https://osmannurierdogan.site](https://osmannurierdogan.site)
+- 👨‍💻 All of my projects are available at [https://osmannurierdogan.com](https://osmannurierdogan.com)
 
-- 📝 I regularly write articles on [https://osmannurierdogan.hashnode.dev](https://osmannurierdogan.hashnode.dev)
+- 📝 I regularly write articles on [https://osmannurierdogan.substack.com](https://osmannurierdogan.substack.com)
 
 - 📫 How to reach me **osmannurierdogann@gmail.com**
 
